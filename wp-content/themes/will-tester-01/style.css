@@ -1,0 +1,33 @@
+/*---------------------------------------------------------------------------------
+
+ Theme Name:   Will-Tester-01
+ Theme URI:    http://w2.com.dev
+ Description:  make a thing
+ Author:       Will Meier
+ Author URI:   https://willmeier.cool
+ Template:     Divi
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+------------------------------ ADDITIONAL CSS HERE ------------------------------*/
+
+/*.contact-page {
+  display: flex;
+  justify-content: center;
+}*/
+.contact-form {
+  display: flex;
+  margin-left:12.5%;
+  justify-content: center;
+  width:100%;
+  margin-top:-20px;
+}
+.about-stretch {
+  height:50000px;
+}
+
+iframe {
+  width:100%;
+  height:100vh;
+}

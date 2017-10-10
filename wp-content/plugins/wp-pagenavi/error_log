@@ -1,0 +1,7 @@
+[26-Jul-2017 19:10:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/test.php on line 4
+[26-Jul-2017 19:12:22 UTC] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/admin.php on line 3
+[26-Jul-2017 19:13:28 UTC] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/admin.php on line 3
+[26-Jul-2017 19:13:29 UTC] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/admin.php on line 3
+[26-Jul-2017 19:13:29 UTC] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/admin.php on line 3
+[26-Jul-2017 19:22:44 UTC] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/admin.php on line 3
+[26-Jul-2017 19:42:41 UTC] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wellbizinc/public_html/fitnesstogetherfranchise/wp-content/plugins/wp-pagenavi/admin.php on line 3
